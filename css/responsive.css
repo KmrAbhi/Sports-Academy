@@ -1,0 +1,75 @@
+div.one-third {
+	width: 47.5%;
+}
+
+div.one-third-second {
+	margin: 0;
+}
+
+div.one-third-last {
+	clear: both;
+	float: none;
+	width: auto;
+	padding: 20px 0 0 0;
+}
+div.one-fourth {
+	width: 47.5%;
+}
+
+div.one-fourth-second {
+	margin: 0;
+}
+
+
+div.one-fourth-last {
+	margin: 0;
+}
+
+
+div.nav ul li {
+	width: 25%;
+	border-bottom: 1px solid #bababa;
+}
+@media screen and (max-width: 1000px) {
+div.map{
+	width:100%;
+	height:450px;
+	margin:0 auto;
+}
+
+
+
+@media screen and (max-width: 620px) {
+	div.nav ul li {
+		width: 33%;
+	}
+	
+}
+
+
+
+@media screen and (max-width: 500px) {
+	
+	div.nav ul li {
+		width: 50%;
+		font-size: 85%;
+	}
+	
+	div.mobile-collapse {
+		width: auto;
+		float: none;
+		margin-right: 0;
+	}
+	
+	.hide-mobile {
+		display: none;
+	}
+	
+
+	
+}
+@media screen and (max-width: 426px) {
+	span.contactbutton{
+		float:left;
+	}
+	}

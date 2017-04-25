@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<body>
+<?= print_r("hello");?>
+	<!-- header -->
+	
+	<div class="header">
+		<div class="headerGroup">
+			<div class="section-inner-logo"><img src="images/4.jpg" alt="Logo" /></div>
+			<div class="section-inner"><h1>KREATIVE SPORTS PROMOTERS TRUST</h1></div>
+		</div>
+	</div><!--/header-->
+	
+	<!-- nav -->
+	<div class="nav"><div class="section-inner">
+		<ul class="clearfix">
+		
+			<li><a href="contactus.html">Events</a></li>
+			<li><a href="contactus.html">Rules</a></li>
+			<li><a href="contactus.html">Results</a></li>
+			<li><a href="contactus.html">Gallery</a></li>
+			<li><a href="contactus.html">Players</a></li>
+		<li><a href="contactus.html">Contact Us</a></li>
+
+		</ul>
+	</div></div><!--/nav-->
